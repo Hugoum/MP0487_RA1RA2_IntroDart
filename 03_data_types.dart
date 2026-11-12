@@ -9,6 +9,7 @@ void main(){
   // String
   String employeeName = "John Smith";
   print(numberOfDays); 
+  
   print(workingHours); 
   print(bankHoliday); 
   print(employeeName); 
